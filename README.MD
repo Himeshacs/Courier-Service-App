@@ -36,7 +36,7 @@ DB_HOST=
 
 
 
-Note: For admin login, you need to create an account with the username 'admin'.
+### Note: For admin login, you need to create an account with the username 'admin'.
 
 
 ## User Stories
