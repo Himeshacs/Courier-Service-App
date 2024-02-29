@@ -50,3 +50,23 @@ DB_HOST=
 * Introduce a feature for clients to schedule pickups for their shipments at their preferred time and location, streamlining the process and enhancing convenience.
 
 * Integrate with e-commerce platforms to offer seamless integration for businesses, allowing them to directly generate shipping labels and track orders from their own systems.
+
+## Additional 
+
+### Client's Features 
+
+When logged in as a client, you can only update and delete your shipment details.
+
+You can view all other shipments.
+
+Access client functionalities through clicking the profile picture, which will display options for creating shipments, tracking shipments, and updating your profile.
+
+You can update your profile as well.
+
+### Admin's Features
+
+Admins can create shipments.
+
+Admins can view all shipments and update them.
+
+Admins can update shipment status as well.
