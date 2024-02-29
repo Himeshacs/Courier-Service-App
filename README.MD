@@ -35,6 +35,10 @@ DB_PASSWORD=
 DB_HOST=
 
 
+
+Note: For admin login, you need to create an account with the username 'admin'.
+
+
 ## User Stories
 
 * Implement real-time package tracking using GPS technology so that clients can track their shipments with greater accuracy and confidence.
