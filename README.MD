@@ -1,7 +1,10 @@
 ## Client Setup
 
+
 Navigate to the directory where client-side code resides.
+
 Run `pnpm install` to install dependencies.
+
 Run `pnpm run dev` to start the development server for the client-side code.
 
 
@@ -9,18 +12,28 @@ Run `pnpm run dev` to start the development server for the client-side code.
 
 
 Navigate to the directory where  server-side code resides.
+
 Run `npm install` to install server-side dependencies.
+
 Run `npm start` to start the server.
+
 
 
 ## Sample ENV for the Server (backend)
 
+
 PORT=
+
 SECRET=
+
 DB_NAME=
+
 DB_USERNAME=
+
 DB_PASSWORD=
+
 DB_HOST=
+
 
 ## User Stories
 
